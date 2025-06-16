@@ -1,5 +1,6 @@
 from flask import Blueprint, jsonify, request
 from utils import load_json_file, enrich_product_with_merchants, get_reviews, get_related_products_joined
+from logger import logger
 import os
 
 products_bp = Blueprint('products', __name__)
@@ -38,7 +39,9 @@ def get_product(product_id: str):
     products_data = load_json_file(PRODUCTS_FILE)
     product = products_data.get('products', {}).get(product_id)
     if not product:
-        return jsonify({'success': False, 'message': 'Product not found'}), 404
+        logger.warning(f'Product not found: {product_id}')
+        return jsonify({'success': False, 'error': 'Product not found'}), 404
+    logger.info(f'Fetched product data for product_id={product_id}')
     enriched_product = enrich_product_with_merchants(product, MERCHANTS_FILE)
     enriched_product['reviews'] = get_reviews(product_id, REVIEWS_FILE)
     enriched_product['relatedProducts'] = get_related_products_joined(product_id, RELATED_PRODUCTS_FILE, PRODUCTS_FILE)

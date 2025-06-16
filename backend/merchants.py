@@ -1,5 +1,6 @@
 from flask import Blueprint, jsonify
 from utils import load_json_file
+from logger import logger
 import os
 
 merchants_bp = Blueprint('merchants', __name__)
@@ -24,4 +25,5 @@ def get_merchants():
               type: object
     """
     merchants_data = load_json_file(MERCHANTS_FILE)
+    logger.info('Fetched merchants data')
     return jsonify({'success': True, 'data': merchants_data.get('merchants', {})})

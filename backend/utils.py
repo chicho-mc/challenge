@@ -30,7 +30,8 @@ def load_json_file(file_path: str, use_cache: bool = True) -> Any:
                 _json_cache[file_path] = data
             return data
     except Exception as e:
-        print(f"Error loading {file_path}: {e}")
+        from logger import logger
+        logger.error(f"Error loading {file_path}: {e}")
         return {}
 
 def save_json_file(file_path: str, data: Any) -> bool:
@@ -50,7 +51,8 @@ def save_json_file(file_path: str, data: Any) -> bool:
         _json_cache[file_path] = data
         return True
     except Exception as e:
-        print(f"Error saving {file_path}: {e}")
+        from logger import logger
+        logger.error(f"Error saving {file_path}: {e}")
         return False
 
 def enrich_product_with_merchants(product: Dict, merchants_file: str) -> Dict:

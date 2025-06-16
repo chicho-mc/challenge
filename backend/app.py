@@ -6,6 +6,7 @@ from merchants import merchants_bp
 from metrics import metrics_bp
 import os
 import yaml
+from logger import logger
 
 
 def create_app():
@@ -19,8 +20,10 @@ def create_app():
     app.register_blueprint(products_bp)
     app.register_blueprint(merchants_bp)
     app.register_blueprint(metrics_bp)
+    logger.info('Flask app created and blueprints registered')
     return app
 
 if __name__ == '__main__':
     app = create_app()
+    logger.info('Starting Flask app on 0.0.0.0:5001')
     app.run(debug=True, port=5001, host='0.0.0.0')
