@@ -29,6 +29,14 @@ jobs:
         run: |
           cd frontend
           npm ci
+      - name: Run backend tests & coverage
+        run: |
+          cd backend
+          pytest --cov=backend --cov-report=xml:coverage.xml
+      - name: Run frontend tests & coverage
+        run: |
+          cd frontend
+          npm run test:coverage || true
       - name: SonarCloud Scan
         uses: SonarSource/sonarcloud-github-action@v2
         with:
