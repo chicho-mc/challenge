@@ -31,12 +31,14 @@ jobs:
           npm ci
       - name: Run backend tests & coverage
         run: |
-          cd backend
-          pytest --cov=backend --cov-report=xml:coverage.xml
+          pytest --cov=backend --cov-report=xml:backend/coverage.xml
       - name: Run frontend tests & coverage
         run: |
           cd frontend
           npm run test:coverage || true
+      - name: Fix lcov paths for SonarCloud
+        run: |
+          sed -i 's|^SF:|SF:frontend/|' frontend/coverage/lcov.info
       - name: SonarCloud Scan
         uses: SonarSource/sonarcloud-github-action@v2
         with:
