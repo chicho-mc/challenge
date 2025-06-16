@@ -8,7 +8,6 @@ A full-stack demo project inspired by MercadoLibre, featuring a Flask backend an
 - `frontend/` — Next.js 15 + TypeScript app
 - `docker-compose.yml` — Orchestrates both services
 - `run.md` — Step-by-step run instructions
-- `screenshots/` — Example UI screenshots
 
 ## 🚀 Quick Start (Docker Compose)
 
@@ -41,9 +40,6 @@ A full-stack demo project inspired by MercadoLibre, featuring a Flask backend an
 ## 🧪 Testing
 - Backend: `pytest` (see backend README)
 - Frontend: `npm test` (see frontend README)
-
-## 📸 Screenshots
-See the `screenshots/` folder for UI examples.
 
 ---
 
