@@ -45,3 +45,26 @@
    The frontend will start on http://localhost:3000
 
 ---
+
+## Docker Compose (Recommended: Run Both Services Together)
+
+1. From the root of the `challenge` directory, build and start both backend and frontend:
+   ```sh
+   docker-compose up --build
+   ```
+   This will start:
+   - Backend (Flask API) at http://localhost:5001
+   - Frontend (Next.js) at http://localhost:3000
+
+2. To stop the services:
+   ```sh
+   docker-compose down
+   ```
+
+### Notes
+- The frontend is configured to call the backend at `http://localhost:5001`.
+- If you need to rebuild after code changes, use:
+   ```sh
+   docker-compose up --build
+   ```
+- For development, you can still run each service locally as described above.
