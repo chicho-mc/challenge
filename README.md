@@ -1,9 +1,9 @@
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=chicho-mc_challenge&metric=alert_status&token=9b01bef3b8d69e138706305b3c178a91f713779e)](https://sonarcloud.io/summary/new_code?id=chicho-mc_challenge)
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=chicho-mc_challenge&metric=bugs&token=9b01bef3b8d69e138706305b3c178a91f713779e)](https://sonarcloud.io/summary/new_code?id=chicho-mc_challenge)
-[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=chicho-mc_challenge&metric=code_smells&token=9b01bef3b8d69e138706305b3c178a91f713779e)](https://sonarcloud.io/summary/new_code?id=chicho-mc_challenge)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=chicho-mc_challenge&metric=coverage&token=9b01bef3b8d69e138706305b3c178a91f713779e)](https://sonarcloud.io/summary/new_code?id=chicho-mc_challenge)
-[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=chicho-mc_challenge&metric=duplicated_lines_density&token=9b01bef3b8d69e138706305b3c178a91f713779e)](https://sonarcloud.io/summary/new_code?id=chicho-mc_challenge)
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=chicho-mc_challenge&metric=vulnerabilities&token=9b01bef3b8d69e138706305b3c178a91f713779e)](https://sonarcloud.io/summary/new_code?id=chicho-mc_challenge)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=chicho-mc_challenge&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=chicho-mc_challenge)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=chicho-mc_challenge&metric=bugs)](https://sonarcloud.io/summary/new_code?id=chicho-mc_challenge)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=chicho-mc_challenge&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=chicho-mc_challenge)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=chicho-mc_challenge&metric=coverage)](https://sonarcloud.io/summary/new_code?id=chicho-mc_challenge)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=chicho-mc_challenge&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=chicho-mc_challenge)
+
 # MercadoLibre Challenge
 
 A full-stack demo project inspired by MercadoLibre, featuring a Flask backend and a Next.js frontend. The backend serves product, merchant, review, and related product data from normalized JSON files, while the frontend provides a modern, responsive UI for browsing products.
