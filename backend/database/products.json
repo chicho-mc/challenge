@@ -35,10 +35,6 @@
           "thumbnail": "/images/products/D_NQ_NP_2X_961470-MLA83796059257_042025-F.webp?height=60&width=60"
         }
       ],
-      "reviews": {
-        "rating": 4,
-        "count": 1234
-      },
       "priceOptions": [
         {
           "id": "best_price",
@@ -48,15 +44,6 @@
           "originalPrice": null,
           "merchantId": "vexi_store",
           "description": "Vendido por VEXI STORE",
-          "seller": {
-            "name": "VEXI STORE",
-            "displayName": "VEXI STORE",
-            "isOfficial": false,
-            "verified": false,
-            "rating": 4.2,
-            "salesCount": "+10K",
-            "location": "Buenos Aires"
-          },
           "selected": true
         },
         {
@@ -67,15 +54,6 @@
           "originalPrice": null,
           "merchantId": "angel_estrada",
           "description": "Vendido por Tienda oficial Angel Estrada",
-          "seller": {
-            "name": "Angel Estrada",
-            "displayName": "Tienda oficial Angel Estrada",
-            "isOfficial": true,
-            "verified": true,
-            "rating": 4.8,
-            "salesCount": "+50K",
-            "location": "Capital Federal"
-          },
           "selected": false
         },
         {
@@ -86,15 +64,6 @@
           "originalPrice": null,
           "merchantId": "Samsung_official",
           "description": "18 cuotas sin interés",
-          "seller": {
-            "name": "Samsung",
-            "displayName": "Samsung Oficial",
-            "isOfficial": true,
-            "verified": true,
-            "rating": 4.9,
-            "salesCount": "+100K",
-            "location": "Capital Federal"
-          },
           "installments": {
             "count": 18,
             "amount": 25000,
@@ -187,14 +156,6 @@
         "quantity": 50,
         "fulfilledBy": "FULL"
       },
-      "seller": {
-        "name": "VEXI STORE",
-        "isOfficial": false,
-        "verified": false,
-        "salesCount": "+10K",
-        "location": "Buenos Aires",
-        "rating": 4.2
-      },
       "freeShippingPromo": {
         "threshold": 50000,
         "message": "Conseguí envío gratis armando un carrito FULL"
@@ -241,10 +202,6 @@
           "thumbnail": "/images/products/D_NQ_NP_2X_939362-MLU75182195494_032024-F.webp?height=60&width=60"
         }
       ],
-      "reviews": {
-        "rating": 4.7,
-        "count": 892
-      },
       "priceOptions": [
         {
           "id": "best_price",
@@ -253,15 +210,6 @@
           "price": 1299999,
           "originalPrice": null,
           "description": "Vendido por TechWorld Premium",
-          "seller": {
-            "name": "TechWorld Premium",
-            "displayName": "TechWorld Premium",
-            "isOfficial": false,
-            "verified": true,
-            "rating": 4.5,
-            "salesCount": "+25K",
-            "location": "Buenos Aires"
-          },
           "selected": true
         },
         {
@@ -271,15 +219,6 @@
           "price": 1369999,
           "originalPrice": null,
           "description": "Vendido por Tienda oficial Apple",
-          "seller": {
-            "name": "Apple",
-            "displayName": "Apple Store Oficial",
-            "isOfficial": true,
-            "verified": true,
-            "rating": 4.9,
-            "salesCount": "+500K",
-            "location": "Capital Federal"
-          },
           "selected": false
         },
         {
@@ -289,15 +228,6 @@
           "price": 1559999,
           "originalPrice": null,
           "description": "24 cuotas sin interés",
-          "seller": {
-            "name": "Apple",
-            "displayName": "Apple Store Oficial",
-            "isOfficial": true,
-            "verified": true,
-            "rating": 4.9,
-            "salesCount": "+500K",
-            "location": "Capital Federal"
-          },
           "installments": {
             "count": 24,
             "amount": 65000,
@@ -395,14 +325,6 @@
         "quantity": 25,
         "fulfilledBy": "FULL"
       },
-      "seller": {
-        "name": "TechWorld Premium",
-        "isOfficial": false,
-        "verified": true,
-        "salesCount": "+25K",
-        "location": "Buenos Aires",
-        "rating": 4.5
-      },
       "freeShippingPromo": {
         "threshold": 100000,
         "message": "Envío gratis en compras superiores a $100.000"
@@ -448,10 +370,6 @@
           "thumbnail": "/images/products/D_NQ_NP_2X_749401-MLA81887320348_012025-F.webp?height=60&width=60"
         }
       ],
-      "reviews": {
-        "rating": 4.3,
-        "count": 267
-      },
       "priceOptions": [
         {
           "id": "best_price",
@@ -460,15 +378,6 @@
           "price": 899999,
           "originalPrice": null,
           "description": "Vendido por CompuMax",
-          "seller": {
-            "name": "CompuMax",
-            "displayName": "CompuMax",
-            "isOfficial": false,
-            "verified": true,
-            "rating": 4.3,
-            "salesCount": "+15K",
-            "location": "Córdoba"
-          },
           "selected": true
         },
         {
@@ -478,15 +387,6 @@
           "price": 944999,
           "originalPrice": null,
           "description": "Vendido por Lenovo Business",
-          "seller": {
-            "name": "Lenovo Business",
-            "displayName": "Lenovo Business",
-            "isOfficial": true,
-            "verified": true,
-            "rating": 4.6,
-            "salesCount": "+50K",
-            "location": "Buenos Aires"
-          },
           "selected": false
         },
         {
@@ -496,15 +396,6 @@
           "price": 1079999,
           "originalPrice": null,
           "description": "12 cuotas sin interés",
-          "seller": {
-            "name": "Lenovo Business",
-            "displayName": "Lenovo Business",
-            "isOfficial": true,
-            "verified": true,
-            "rating": 4.6,
-            "salesCount": "+50K",
-            "location": "Buenos Aires"
-          },
           "installments": {
             "count": 12,
             "amount": 90000,
@@ -582,14 +473,6 @@
         "quantity": 15,
         "fulfilledBy": "FULL"
       },
-      "seller": {
-        "name": "CompuMax",
-        "isOfficial": false,
-        "verified": true,
-        "salesCount": "+15K",
-        "location": "Córdoba",
-        "rating": 4.3
-      },
       "freeShippingPromo": {
         "threshold": 75000,
         "message": "Envío gratis en compras superiores a $75.000"
@@ -635,10 +518,6 @@
           "thumbnail": "/images/products/D_NQ_NP_2X_875857-MLA70258248060_072023-F.webp?height=60&width=60"
         }
       ],
-      "reviews": {
-        "rating": 4.8,
-        "count": 1456
-      },
       "priceOptions": [
         {
           "id": "best_price",
@@ -647,15 +526,6 @@
           "price": 459999,
           "originalPrice": null,
           "description": "Vendido por GameZone",
-          "seller": {
-            "name": "GameZone",
-            "displayName": "GameZone",
-            "isOfficial": false,
-            "verified": true,
-            "rating": 4.4,
-            "salesCount": "+30K",
-            "location": "Buenos Aires"
-          },
           "selected": true
         },
         {
@@ -665,15 +535,6 @@
           "price": 482999,
           "originalPrice": null,
           "description": "Vendido por Nintendo Argentina",
-          "seller": {
-            "name": "Nintendo",
-            "displayName": "Nintendo Argentina",
-            "isOfficial": true,
-            "verified": true,
-            "rating": 4.9,
-            "salesCount": "+200K",
-            "location": "Capital Federal"
-          },
           "selected": false
         },
         {
@@ -683,15 +544,6 @@
           "price": 551999,
           "originalPrice": null,
           "description": "18 cuotas sin interés",
-          "seller": {
-            "name": "Nintendo",
-            "displayName": "Nintendo Argentina",
-            "isOfficial": true,
-            "verified": true,
-            "rating": 4.9,
-            "salesCount": "+200K",
-            "location": "Capital Federal"
-          },
           "installments": {
             "count": 18,
             "amount": 30667,
@@ -764,14 +616,6 @@
         "quantity": 35,
         "fulfilledBy": "FULL"
       },
-      "seller": {
-        "name": "GameZone",
-        "isOfficial": false,
-        "verified": true,
-        "salesCount": "+30K",
-        "location": "Buenos Aires",
-        "rating": 4.4
-      },
       "freeShippingPromo": {
         "threshold": 50000,
         "message": "Envío gratis en compras superiores a $50.000"
@@ -811,10 +655,6 @@
           "thumbnail": "/images/products/D_NQ_NP_2X_699482-MLA74287271015_012024-F.webp?height=60&width=60"
         }
       ],
-      "reviews": {
-        "rating": 4.6,
-        "count": 543
-      },
       "priceOptions": [
         {
           "id": "best_price",
@@ -823,15 +663,6 @@
           "price": 389999,
           "originalPrice": null,
           "description": "Vendido por AudioTech",
-          "seller": {
-            "name": "AudioTech",
-            "displayName": "AudioTech",
-            "isOfficial": false,
-            "verified": true,
-            "rating": 4.3,
-            "salesCount": "+20K",
-            "location": "Buenos Aires"
-          },
           "selected": true
         },
         {
@@ -841,15 +672,6 @@
           "price": 409499,
           "originalPrice": null,
           "description": "Vendido por Sony Argentina",
-          "seller": {
-            "name": "Sony",
-            "displayName": "Sony Argentina",
-            "isOfficial": true,
-            "verified": true,
-            "rating": 4.8,
-            "salesCount": "+100K",
-            "location": "Capital Federal"
-          },
           "selected": false
         },
         {
@@ -859,15 +681,6 @@
           "price": 467999,
           "originalPrice": null,
           "description": "12 cuotas sin interés",
-          "seller": {
-            "name": "Sony",
-            "displayName": "Sony Argentina",
-            "isOfficial": true,
-            "verified": true,
-            "rating": 4.8,
-            "salesCount": "+100K",
-            "location": "Capital Federal"
-          },
           "installments": {
             "count": 12,
             "amount": 39000,
@@ -939,14 +752,6 @@
         "quantity": 42,
         "fulfilledBy": "FULL"
       },
-      "seller": {
-        "name": "AudioTech",
-        "isOfficial": false,
-        "verified": true,
-        "salesCount": "+20K",
-        "location": "Buenos Aires",
-        "rating": 4.3
-      },
       "freeShippingPromo": {
         "threshold": 50000,
         "message": "Envío gratis en compras superiores a $50.000"
@@ -957,137 +762,5 @@
         "type": "Garantía internacional Sony"
       }
     }
-  },
-  "relatedProducts": {
-    "MLA123456789": [
-      {
-        "id": "MLA987654321",
-        "name": "Apple iPhone 15 Pro 256 GB Titanio Natural",
-        "price": 1299999,
-        "originalPrice": null,
-        "image": "/images/products/D_NQ_NP_2X_891263-MLA71783089058_092023-F.webp?height=200&width=200",
-        "freeShipping": true
-      },
-      {
-        "id": "MLA789123456",
-        "name": "Nintendo Switch OLED Modelo Blanco 64GB + Joy-Con",
-        "price": 459999,
-        "originalPrice": null,
-        "image": "/images/products/D_NQ_NP_2X_803086-MLA47920649105_102021-F.webp?height=200&width=200",
-        "freeShipping": true
-      },
-      {
-        "id": "MLA321654987",
-        "name": "Sony WH-1000XM5 Auriculares Inalámbricos Noise Cancelling",
-        "price": 389999,
-        "originalPrice": null,
-        "image": "/images/products/D_NQ_NP_2X_794797-MLA50436072460_062022-F.webp?height=200&width=200",
-        "freeShipping": true
-      }
-    ],
-    "MLA987654321": [
-      {
-        "id": "MLA123456789",
-        "name": "Samsung Galaxy A15 128 GB Negro azabache 4 GB RAM",
-        "price": 389999,
-        "originalPrice": null,
-        "image": "/images/products/D_NQ_NP_2X_906308-MLA85051996026_052025-F.webp?height=200&width=200",
-        "freeShipping": true
-      },
-      {
-        "id": "MLA456789123",
-        "name": "Lenovo ThinkPad E15 Intel Core i5 16GB RAM 512GB SSD",
-        "price": 899999,
-        "originalPrice": null,
-        "image": "/images/products/D_NQ_NP_2X_697912-MLA82167895629_012025-F.webp?height=200&width=200",
-        "freeShipping": true
-      },
-      {
-        "id": "MLA321654987",
-        "name": "Sony WH-1000XM5 Auriculares Inalámbricos Noise Cancelling",
-        "price": 389999,
-        "originalPrice": null,
-        "image": "/images/products/D_NQ_NP_2X_794797-MLA50436072460_062022-F.webp?height=200&width=200",
-        "freeShipping": true
-      }
-    ],
-    "MLA456789123": [
-      {
-        "id": "MLA987654321",
-        "name": "Apple iPhone 15 Pro 256 GB Titanio Natural",
-        "price": 1299999,
-        "originalPrice": null,
-        "image": "/images/products/D_NQ_NP_2X_891263-MLA71783089058_092023-F.webp?height=200&width=200",
-        "freeShipping": true
-      },
-      {
-        "id": "MLA789123456",
-        "name": "Nintendo Switch OLED Modelo Blanco 64GB + Joy-Con",
-        "price": 459999,
-        "originalPrice": null,
-        "image": "/images/products/D_NQ_NP_2X_803086-MLA47920649105_102021-F.webp?height=200&width=200",
-        "freeShipping": true
-      },
-      {
-        "id": "MLA123456789",
-        "name": "Samsung Galaxy A15 128 GB Negro azabache 4 GB RAM",
-        "price": 389999,
-        "originalPrice": null,
-        "image": "/images/products/D_NQ_NP_2X_906308-MLA85051996026_052025-F.webp?height=200&width=200",
-        "freeShipping": true
-      }
-    ],
-    "MLA789123456": [
-      {
-        "id": "MLA456789123",
-        "name": "Lenovo ThinkPad E15 Intel Core i5 16GB RAM 512GB SSD",
-        "price": 899999,
-        "originalPrice": null,
-        "image": "/images/products/D_NQ_NP_2X_697912-MLA82167895629_012025-F.webp?height=200&width=200",
-        "freeShipping": true
-      },
-      {
-        "id": "MLA987654321",
-        "name": "Apple iPhone 15 Pro 256 GB Titanio Natural",
-        "price": 1299999,
-        "originalPrice": null,
-        "image": "/images/products/D_NQ_NP_2X_891263-MLA71783089058_092023-F.webp?height=200&width=200",
-        "freeShipping": true
-      },
-      {
-        "id": "MLA321654987",
-        "name": "Sony WH-1000XM5 Auriculares Inalámbricos Noise Cancelling",
-        "price": 389999,
-        "originalPrice": null,
-        "image": "/images/products/D_NQ_NP_2X_794797-MLA50436072460_062022-F.webp?height=200&width=200",
-        "freeShipping": true
-      }
-    ],
-    "MLA321654987": [
-      {
-        "id": "MLA123456789",
-        "name": "Samsung Galaxy A15 128 GB Negro azabache 4 GB RAM",
-        "price": 389999,
-        "originalPrice": null,
-        "image": "/images/products/D_NQ_NP_2X_906308-MLA85051996026_052025-F.webp?height=200&width=200",
-        "freeShipping": true
-      },
-      {
-        "id": "MLA987654321",
-        "name": "Apple iPhone 15 Pro 256 GB Titanio Natural",
-        "price": 1299999,
-        "originalPrice": null,
-        "image": "/images/products/D_NQ_NP_2X_891263-MLA71783089058_092023-F.webp?height=200&width=200",
-        "freeShipping": true
-      },
-      {
-        "id": "MLA789123456",
-        "name": "Nintendo Switch OLED Modelo Blanco 64GB + Joy-Con",
-        "price": 459999,
-        "originalPrice": null,
-        "image": "/images/products/D_NQ_NP_2X_803086-MLA47920649105_102021-F.webp?height=200&width=200",
-        "freeShipping": true
-      }
-    ]
   }
 }

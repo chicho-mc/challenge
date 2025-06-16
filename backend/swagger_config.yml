@@ -1,0 +1,9 @@
+swagger: "2.0"
+info:
+  title: Mercado Libre Challenge API
+  description: API documentation for the backend challenge
+  version: "1.0.0"
+host: "localhost:5001"
+schemes:
+  - http
+basePath: "/"

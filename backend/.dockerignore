@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.pot
+*.pyc
+*.mypy_cache/
+*.pytest_cache/
+# VSCode
+.vscode/
+# OS
+.DS_Store
+# Test coverage
+htmlcov/
+.coverage
+coverage.xml
+# Docker
+*.env
