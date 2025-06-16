@@ -1,0 +1,51 @@
+{
+  "merchants": {
+    "angel_estrada": {
+      "id": "angel_estrada",
+      "name": "Angel Estrada",
+      "displayName": "Tienda oficial Angel Estrada",
+      "isOfficial": true,
+      "verified": true,
+      "rating": 4.8,
+      "salesCount": "+50K",
+      "location": "Capital Federal",
+      "joinedDate": "2020-03-15",
+      "categories": ["Celulares y Teléfonos", "Electrónicos"],
+      "contact": {
+        "email": "ventas@angelestrada.com",
+        "phone": "+54-11-4567-8900"
+      }
+    },
+    "vexi_store": {
+      "id": "vexi_store",
+      "name": "VEXI STORE",
+      "displayName": "VEXI STORE",
+      "isOfficial": false,
+      "verified": false,
+      "rating": 4.2,
+      "salesCount": "+10K",
+      "location": "Buenos Aires",
+      "joinedDate": "2022-08-20",
+      "categories": ["Celulares y Teléfonos", "Accesorios"],
+      "contact": {
+        "email": "info@vexistore.com"
+      }
+    },
+    "samsong_official": {
+      "id": "samsong_official",
+      "name": "Samsong",
+      "displayName": "Tienda oficial Samsong",
+      "isOfficial": true,
+      "verified": true,
+      "rating": 4.9,
+      "salesCount": "+1M",
+      "location": "Capital Federal",
+      "joinedDate": "2018-01-10",
+      "categories": ["Celulares y Teléfonos", "Electrónicos", "Computación"],
+      "contact": {
+        "email": "ventas@samsong.com.ar",
+        "phone": "+54-11-5000-7000"
+      }
+    }
+  }
+}

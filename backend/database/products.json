@@ -1,0 +1,1093 @@
+{
+  "products": {
+    "MLA123456789": {
+      "id": "MLA123456789",
+      "title": "Samsung Galaxy A15 128 GB Negro azabache 4 GB RAM",
+      "condition": "Nuevo",
+      "category": "Celulares y Teléfonos > Celulares y Smartphones",
+      "salesCount": 1000,
+      "basePrice": 389999,
+      "createdAt": "2024-01-15T10:00:00Z",
+      "updatedAt": "2024-06-14T15:30:00Z",
+      "images": [
+        {
+          "id": "img1",
+          "url": "/images/products/D_NQ_NP_2X_906308-MLA85051996026_052025-F.webp?height=400&width=400",
+          "alt": "Samsung Galaxy A15 - Vista frontal",
+          "thumbnail": "/images/products/D_NQ_NP_2X_906308-MLA85051996026_052025-F.webp?height=60&width=60"
+        },
+        {
+          "id": "img2",
+          "url": "/images/products/D_NQ_NP_2X_930126-MLA83796059239_042025-F.webp?height=400&width=400",
+          "alt": "Samsung Galaxy A15 - Vista trasera",
+          "thumbnail": "/images/products/D_NQ_NP_2X_930126-MLA83796059239_042025-F.webp?height=60&width=60"
+        },
+        {
+          "id": "img3",
+          "url": "/images/products/D_NQ_NP_2X_953316-MLA83795973619_042025-F.webp?height=400&width=400",
+          "alt": "Samsung Galaxy A15 - Vista lateral",
+          "thumbnail": "/images/products/D_NQ_NP_2X_953316-MLA83795973619_042025-F.webp?height=60&width=60"
+        },
+        {
+          "id": "img4",
+          "url": "/images/products/D_NQ_NP_2X_961470-MLA83796059257_042025-F.webp?height=400&width=400",
+          "alt": "Samsung Galaxy A15 - Accesorios",
+          "thumbnail": "/images/products/D_NQ_NP_2X_961470-MLA83796059257_042025-F.webp?height=60&width=60"
+        }
+      ],
+      "reviews": {
+        "rating": 4,
+        "count": 1234
+      },
+      "priceOptions": [
+        {
+          "id": "best_price",
+          "type": "best_price",
+          "title": "Mejor precio",
+          "price": 389999,
+          "originalPrice": null,
+          "merchantId": "vexi_store",
+          "description": "Vendido por VEXI STORE",
+          "seller": {
+            "name": "VEXI STORE",
+            "displayName": "VEXI STORE",
+            "isOfficial": false,
+            "verified": false,
+            "rating": 4.2,
+            "salesCount": "+10K",
+            "location": "Buenos Aires"
+          },
+          "selected": true
+        },
+        {
+          "id": "official_store",
+          "type": "fast_shipping",
+          "title": "Tienda oficial",
+          "price": 409999,
+          "originalPrice": null,
+          "merchantId": "angel_estrada",
+          "description": "Vendido por Tienda oficial Angel Estrada",
+          "seller": {
+            "name": "Angel Estrada",
+            "displayName": "Tienda oficial Angel Estrada",
+            "isOfficial": true,
+            "verified": true,
+            "rating": 4.8,
+            "salesCount": "+50K",
+            "location": "Capital Federal"
+          },
+          "selected": false
+        },
+        {
+          "id": "installments",
+          "type": "installments",
+          "title": "En cuotas",
+          "price": 449999,
+          "originalPrice": null,
+          "merchantId": "Samsung_official",
+          "description": "18 cuotas sin interés",
+          "seller": {
+            "name": "Samsung",
+            "displayName": "Samsung Oficial",
+            "isOfficial": true,
+            "verified": true,
+            "rating": 4.9,
+            "salesCount": "+100K",
+            "location": "Capital Federal"
+          },
+          "installments": {
+            "count": 18,
+            "amount": 25000,
+            "interestFree": true
+          },
+          "selected": false
+        }
+      ],
+      "colorVariants": [
+        {
+          "id": "blue",
+          "name": "Azul",
+          "value": "azul",
+          "color": "#1434cb",
+          "available": true
+        },
+        {
+          "id": "black",
+          "name": "Negro Azabache",
+          "value": "negro",
+          "color": "#333333",
+          "available": true
+        },
+        {
+          "id": "white",
+          "name": "Blanco",
+          "value": "blanco",
+          "color": "#ffffff",
+          "available": true
+        },
+        {
+          "id": "orange",
+          "name": "Naranja",
+          "value": "naranja",
+          "color": "#f49d1e",
+          "available": false
+        }
+      ],
+      "memoryVariants": [
+        {
+          "id": "4gb",
+          "name": "4 GB",
+          "value": "4gb",
+          "available": true
+        },
+        {
+          "id": "6gb",
+          "name": "6 GB",
+          "value": "6gb",
+          "available": true
+        }
+      ],
+      "features": [
+        "Pantalla Super AMOLED de 6.5\"",
+        "Procesador MediaTek Helio G99 Octa-core de 2.2GHz+2GHz",
+        "Cámara principal de 50Mpx",
+        "Resolución de la pantalla: 1080 x 2340 Pixeles",
+        "Memoria interna de 128GB",
+        "Con reconocimiento facial y sensor de huella dactilar",
+        "Batería de 5000mAh",
+        "Resistente al agua",
+        "Red 4G",
+        "Sistema operativo Android 14",
+        "Incluye cargador"
+      ],
+      "specifications": {
+        "Pantalla": "6.5\" Super AMOLED",
+        "Procesador": "MediaTek Helio G99",
+        "RAM": "4 GB",
+        "Almacenamiento": "128 GB",
+        "Cámara": "50 MP + 5 MP + 2 MP",
+        "Batería": "5000 mAh",
+        "Sistema": "Android 14"
+      },
+      "description": "El Samsung Galaxy A15 combina un diseño elegante con un rendimiento excepcional...",
+      "shipping": [
+        {
+          "type": "free",
+          "description": "Llega gratis",
+          "estimatedDate": "el martes"
+        },
+        {
+          "type": "pickup",
+          "description": "Retira gratis a partir del martes en",
+          "estimatedDate": "correos y otros puntos"
+        }
+      ],
+      "stock": {
+        "available": true,
+        "quantity": 50,
+        "fulfilledBy": "FULL"
+      },
+      "seller": {
+        "name": "VEXI STORE",
+        "isOfficial": false,
+        "verified": false,
+        "salesCount": "+10K",
+        "location": "Buenos Aires",
+        "rating": 4.2
+      },
+      "freeShippingPromo": {
+        "threshold": 50000,
+        "message": "Conseguí envío gratis armando un carrito FULL"
+      },
+      "paymentMethods": {
+        "creditCard": true,
+        "debitCard": true,
+        "cash": true,
+        "installments": true,
+        "mercadoPago": true
+      },
+      "tags": ["smartphone", "Samsung", "android", "4g", "camera"],
+      "warranty": {
+        "duration": "12 meses",
+        "type": "Garantía oficial del fabricante"
+      }
+    },
+    "MLA987654321": {
+      "id": "MLA987654321",
+      "title": "Apple iPhone 15 Pro 256 GB Titanio Natural",
+      "condition": "Nuevo",
+      "category": "Celulares y Teléfonos > Celulares y Smartphones",
+      "salesCount": 2500,
+      "basePrice": 1299999,
+      "createdAt": "2024-02-10T14:30:00Z",
+      "updatedAt": "2024-06-14T16:00:00Z",
+      "images": [
+        {
+          "id": "img1",
+          "url": "/images/products/D_NQ_NP_2X_891263-MLA71783089058_092023-F.webp?height=400&width=400",
+          "alt": "Apple iPhone 15 Pro - Vista frontal",
+          "thumbnail": "/images/products/D_NQ_NP_2X_891263-MLA71783089058_092023-F.webp?height=60&width=60"
+        },
+        {
+          "id": "img2",
+          "url": "/images/products/D_NQ_NP_2X_682542-MLU75329230975_032024-F.webp?height=400&width=400",
+          "alt": "Apple iPhone 15 Pro - Vista trasera",
+          "thumbnail": "/images/products/D_NQ_NP_2X_682542-MLU75329230975_032024-F.webp?height=60&width=60"
+        },
+        {
+          "id": "img3",
+          "url": "/images/products/D_NQ_NP_2X_939362-MLU75182195494_032024-F.webp?height=400&width=400",
+          "alt": "Apple iPhone 15 Pro - Vista lateral",
+          "thumbnail": "/images/products/D_NQ_NP_2X_939362-MLU75182195494_032024-F.webp?height=60&width=60"
+        }
+      ],
+      "reviews": {
+        "rating": 4.7,
+        "count": 892
+      },
+      "priceOptions": [
+        {
+          "id": "best_price",
+          "type": "best_price",
+          "title": "Mejor precio",
+          "price": 1299999,
+          "originalPrice": null,
+          "description": "Vendido por TechWorld Premium",
+          "seller": {
+            "name": "TechWorld Premium",
+            "displayName": "TechWorld Premium",
+            "isOfficial": false,
+            "verified": true,
+            "rating": 4.5,
+            "salesCount": "+25K",
+            "location": "Buenos Aires"
+          },
+          "selected": true
+        },
+        {
+          "id": "official_store",
+          "type": "fast_shipping",
+          "title": "Tienda oficial",
+          "price": 1369999,
+          "originalPrice": null,
+          "description": "Vendido por Tienda oficial Apple",
+          "seller": {
+            "name": "Apple",
+            "displayName": "Apple Store Oficial",
+            "isOfficial": true,
+            "verified": true,
+            "rating": 4.9,
+            "salesCount": "+500K",
+            "location": "Capital Federal"
+          },
+          "selected": false
+        },
+        {
+          "id": "installments",
+          "type": "installments",
+          "title": "En cuotas",
+          "price": 1559999,
+          "originalPrice": null,
+          "description": "24 cuotas sin interés",
+          "seller": {
+            "name": "Apple",
+            "displayName": "Apple Store Oficial",
+            "isOfficial": true,
+            "verified": true,
+            "rating": 4.9,
+            "salesCount": "+500K",
+            "location": "Capital Federal"
+          },
+          "installments": {
+            "count": 24,
+            "amount": 65000,
+            "interestFree": true
+          },
+          "selected": false
+        }
+      ],
+      "colorVariants": [
+        {
+          "id": "natural_titanium",
+          "name": "Titanio Natural",
+          "value": "natural",
+          "color": "#f5f5dc",
+          "available": true
+        },
+        {
+          "id": "blue_titanium",
+          "name": "Titanio Azul",
+          "value": "blue",
+          "color": "#4169e1",
+          "available": true
+        },
+        {
+          "id": "white_titanium",
+          "name": "Titanio Blanco",
+          "value": "white",
+          "color": "#f8f8ff",
+          "available": false
+        },
+        {
+          "id": "black_titanium",
+          "name": "Titanio Negro",
+          "value": "black",
+          "color": "#2f2f2f",
+          "available": true
+        }
+      ],
+      "memoryVariants": [
+        {
+          "id": "128gb",
+          "name": "128 GB",
+          "value": "128gb",
+          "available": true
+        },
+        {
+          "id": "256gb",
+          "name": "256 GB",
+          "value": "256gb",
+          "available": true
+        },
+        {
+          "id": "512gb",
+          "name": "512 GB",
+          "value": "512gb",
+          "available": true
+        }
+      ],
+      "features": [
+        "Pantalla Super Retina XDR de 6.1\"",
+        "Chip A17 Pro con GPU de 6 núcleos",
+        "Sistema de cámaras Pro con teleobjetivo 3x",
+        "Cámara principal de 48MP con ultra gran angular",
+        "Grabación de video 4K ProRes",
+        "Face ID para autenticación segura",
+        "Resistente al agua IP68",
+        "Conector USB-C",
+        "Batería de hasta 23 horas de reproducción de video",
+        "iOS 17 con nuevas funciones de personalización"
+      ],
+      "specifications": {
+        "Pantalla": "6.1\" Super Retina XDR OLED",
+        "Procesador": "A17 Pro",
+        "RAM": "8 GB",
+        "Almacenamiento": "256 GB",
+        "Cámara": "48 MP + 12 MP + 12 MP",
+        "Batería": "3274 mAh",
+        "Sistema": "iOS 17"
+      },
+      "description": "El Apple iPhone 15 Pro redefine lo que es posible con un smartphone...",
+      "shipping": [
+        {
+          "type": "free",
+          "description": "Llega gratis",
+          "estimatedDate": "mañana"
+        },
+        {
+          "type": "pickup",
+          "description": "Retira gratis hoy en",
+          "estimatedDate": "tiendas Apple"
+        }
+      ],
+      "stock": {
+        "available": true,
+        "quantity": 25,
+        "fulfilledBy": "FULL"
+      },
+      "seller": {
+        "name": "TechWorld Premium",
+        "isOfficial": false,
+        "verified": true,
+        "salesCount": "+25K",
+        "location": "Buenos Aires",
+        "rating": 4.5
+      },
+      "freeShippingPromo": {
+        "threshold": 100000,
+        "message": "Envío gratis en compras superiores a $100.000"
+      },
+      "tags": ["smartphone", "Apple", "iphone", "premium", "camera", "5g"],
+      "warranty": {
+        "duration": "12 meses",
+        "type": "Garantía limitada Apple"
+      }
+    },
+    "MLA456789123": {
+      "id": "MLA456789123",
+      "title": "Lenovo ThinkPad E15 Intel Core i5 16GB RAM 512GB SSD",
+      "condition": "Nuevo",
+      "category": "Computación > Laptops y Notebooks",
+      "salesCount": 450,
+      "basePrice": 899999,
+      "createdAt": "2024-03-05T09:15:00Z",
+      "updatedAt": "2024-06-14T14:45:00Z",
+      "images": [
+        {
+          "id": "img1",
+          "url": "/images/products/D_NQ_NP_2X_697912-MLA82167895629_012025-F.webp?height=400&width=400",
+          "alt": "Lenovo ThinkPad E15 - Vista frontal abierta",
+          "thumbnail": "/images/products/D_NQ_NP_2X_697912-MLA82167895629_012025-F.webp?height=60&width=60"
+        },
+        {
+          "id": "img2",
+          "url": "/images/products/D_NQ_NP_2X_663691-MLA82167464377_012025-F.webp?height=400&width=400",
+          "alt": "Lenovo ThinkPad E15 - Vista superior cerrada",
+          "thumbnail": "/images/products/D_NQ_NP_2X_663691-MLA82167464377_012025-F.webp?height=60&width=60"
+        },
+        {
+          "id": "img3",
+          "url": "/images/products/D_NQ_NP_2X_965034-MLA82167552357_012025-F.webp?height=400&width=400",
+          "alt": "Lenovo ThinkPad E15 - Teclado y trackpad",
+          "thumbnail": "/images/products/D_NQ_NP_2X_965034-MLA82167552357_012025-F.webp?height=60&width=60"
+        },
+        {
+          "id": "img4",
+          "url": "/images/products/D_NQ_NP_2X_749401-MLA81887320348_012025-F.webp?height=400&width=400",
+          "alt": "Lenovo ThinkPad E15 - Puertos laterales",
+          "thumbnail": "/images/products/D_NQ_NP_2X_749401-MLA81887320348_012025-F.webp?height=60&width=60"
+        }
+      ],
+      "reviews": {
+        "rating": 4.3,
+        "count": 267
+      },
+      "priceOptions": [
+        {
+          "id": "best_price",
+          "type": "best_price",
+          "title": "Mejor precio",
+          "price": 899999,
+          "originalPrice": null,
+          "description": "Vendido por CompuMax",
+          "seller": {
+            "name": "CompuMax",
+            "displayName": "CompuMax",
+            "isOfficial": false,
+            "verified": true,
+            "rating": 4.3,
+            "salesCount": "+15K",
+            "location": "Córdoba"
+          },
+          "selected": true
+        },
+        {
+          "id": "official_store",
+          "type": "fast_shipping",
+          "title": "Tienda oficial",
+          "price": 944999,
+          "originalPrice": null,
+          "description": "Vendido por Lenovo Business",
+          "seller": {
+            "name": "Lenovo Business",
+            "displayName": "Lenovo Business",
+            "isOfficial": true,
+            "verified": true,
+            "rating": 4.6,
+            "salesCount": "+50K",
+            "location": "Buenos Aires"
+          },
+          "selected": false
+        },
+        {
+          "id": "installments",
+          "type": "installments",
+          "title": "En cuotas",
+          "price": 1079999,
+          "originalPrice": null,
+          "description": "12 cuotas sin interés",
+          "seller": {
+            "name": "Lenovo Business",
+            "displayName": "Lenovo Business",
+            "isOfficial": true,
+            "verified": true,
+            "rating": 4.6,
+            "salesCount": "+50K",
+            "location": "Buenos Aires"
+          },
+          "installments": {
+            "count": 12,
+            "amount": 90000,
+            "interestFree": true
+          },
+          "selected": false
+        }
+      ],
+      "colorVariants": [
+        {
+          "id": "black",
+          "name": "Negro",
+          "value": "black",
+          "color": "#1a1a1a",
+          "available": true
+        }
+      ],
+      "memoryVariants": [
+        {
+          "id": "8gb",
+          "name": "8 GB RAM",
+          "value": "8gb",
+          "available": true
+        },
+        {
+          "id": "16gb",
+          "name": "16 GB RAM",
+          "value": "16gb",
+          "available": true
+        },
+        {
+          "id": "32gb",
+          "name": "32 GB RAM",
+          "value": "32gb",
+          "available": false
+        }
+      ],
+      "features": [
+        "Procesador Intel Core i5-1335U de 12va generación",
+        "Pantalla IPS Full HD de 15.6\" antirreflejo",
+        "16GB de RAM DDR4 expandible hasta 32GB",
+        "Almacenamiento SSD de 512GB PCIe NVMe",
+        "Gráficos Intel Iris Xe integrados",
+        "Teclado retroiluminado resistente a derrames",
+        "TrackPoint rojo característico de ThinkPad",
+        "Cámara web HD con obturador de privacidad",
+        "Conectividad Wi-Fi 6 y Bluetooth 5.1",
+        "Batería de hasta 10 horas de duración",
+        "Puertos USB-A, USB-C, HDMI y Ethernet"
+      ],
+      "specifications": {
+        "Pantalla": "15.6\" IPS Full HD (1920x1080)",
+        "Procesador": "Intel Core i5-1335U",
+        "RAM": "16 GB DDR4",
+        "Almacenamiento": "512 GB SSD NVMe",
+        "Gráficos": "Intel Iris Xe",
+        "Batería": "57Wh",
+        "Sistema": "Windows 11 Pro"
+      },
+      "description": "La Lenovo ThinkPad E15 es la laptop perfecta para profesionales que buscan rendimiento y confiabilidad...",
+      "shipping": [
+        {
+          "type": "free",
+          "description": "Llega gratis",
+          "estimatedDate": "en 3-5 días hábiles"
+        },
+        {
+          "type": "pickup",
+          "description": "Retira gratis en",
+          "estimatedDate": "sucursales Lenovo"
+        }
+      ],
+      "stock": {
+        "available": true,
+        "quantity": 15,
+        "fulfilledBy": "FULL"
+      },
+      "seller": {
+        "name": "CompuMax",
+        "isOfficial": false,
+        "verified": true,
+        "salesCount": "+15K",
+        "location": "Córdoba",
+        "rating": 4.3
+      },
+      "freeShippingPromo": {
+        "threshold": 75000,
+        "message": "Envío gratis en compras superiores a $75.000"
+      },
+      "tags": ["laptop", "Lenovo", "thinkpad", "business", "intel", "ssd"],
+      "warranty": {
+        "duration": "24 meses",
+        "type": "Garantía internacional Lenovo"
+      }
+    },
+    "MLA789123456": {
+      "id": "MLA789123456",
+      "title": "Nintendo Switch OLED Modelo Blanco 64GB + Joy-Con",
+      "condition": "Nuevo",
+      "category": "Videojuegos > Consolas",
+      "salesCount": 1850,
+      "basePrice": 459999,
+      "createdAt": "2024-01-20T11:00:00Z",
+      "updatedAt": "2024-06-14T13:20:00Z",
+      "images": [
+        {
+          "id": "img1",
+          "url": "/images/products/D_NQ_NP_2X_803086-MLA47920649105_102021-F.webp?height=400&width=400",
+          "alt": "Nintendo Switch OLED - Consola completa",
+          "thumbnail": "/images/products/D_NQ_NP_2X_803086-MLA47920649105_102021-F.webp?height=60&width=60"
+        },
+        {
+          "id": "img2",
+          "url": "/images/products/D_NQ_NP_2X_702157-MLU72637591367_112023-F.webp?height=400&width=400",
+          "alt": "Nintendo Switch OLED - Modo portátil",
+          "thumbnail": "/images/products/D_NQ_NP_2X_702157-MLU72637591367_112023-F.webp?height=60&width=60"
+        },
+        {
+          "id": "img3",
+          "url": "/images/products/D_NQ_NP_2X_705755-MLA47920649122_102021-F.webp?height=400&width=400",
+          "alt": "Nintendo Switch OLED - Dock para TV",
+          "thumbnail": "/images/products/D_NQ_NP_2X_705755-MLA47920649122_102021-F.webp?height=60&width=60"
+        },
+        {
+          "id": "img4",
+          "url": "/images/products/D_NQ_NP_2X_875857-MLA70258248060_072023-F.webp?height=400&width=400",
+          "alt": "Nintendo Switch OLED - Joy-Con",
+          "thumbnail": "/images/products/D_NQ_NP_2X_875857-MLA70258248060_072023-F.webp?height=60&width=60"
+        }
+      ],
+      "reviews": {
+        "rating": 4.8,
+        "count": 1456
+      },
+      "priceOptions": [
+        {
+          "id": "best_price",
+          "type": "best_price",
+          "title": "Mejor precio",
+          "price": 459999,
+          "originalPrice": null,
+          "description": "Vendido por GameZone",
+          "seller": {
+            "name": "GameZone",
+            "displayName": "GameZone",
+            "isOfficial": false,
+            "verified": true,
+            "rating": 4.4,
+            "salesCount": "+30K",
+            "location": "Buenos Aires"
+          },
+          "selected": true
+        },
+        {
+          "id": "official_store",
+          "type": "fast_shipping",
+          "title": "Tienda oficial",
+          "price": 482999,
+          "originalPrice": null,
+          "description": "Vendido por Nintendo Argentina",
+          "seller": {
+            "name": "Nintendo",
+            "displayName": "Nintendo Argentina",
+            "isOfficial": true,
+            "verified": true,
+            "rating": 4.9,
+            "salesCount": "+200K",
+            "location": "Capital Federal"
+          },
+          "selected": false
+        },
+        {
+          "id": "installments",
+          "type": "installments",
+          "title": "En cuotas",
+          "price": 551999,
+          "originalPrice": null,
+          "description": "18 cuotas sin interés",
+          "seller": {
+            "name": "Nintendo",
+            "displayName": "Nintendo Argentina",
+            "isOfficial": true,
+            "verified": true,
+            "rating": 4.9,
+            "salesCount": "+200K",
+            "location": "Capital Federal"
+          },
+          "installments": {
+            "count": 18,
+            "amount": 30667,
+            "interestFree": true
+          },
+          "selected": false
+        }
+      ],
+      "colorVariants": [
+        {
+          "id": "white",
+          "name": "Blanco",
+          "value": "white",
+          "color": "#ffffff",
+          "available": true
+        },
+        {
+          "id": "neon",
+          "name": "Neón Azul/Rojo",
+          "value": "neon",
+          "color": "#ff4444",
+          "available": true
+        }
+      ],
+      "memoryVariants": [
+        {
+          "id": "64gb",
+          "name": "64 GB",
+          "value": "64gb",
+          "available": true
+        }
+      ],
+      "features": [
+        "Pantalla OLED de 7 pulgadas con colores vibrantes",
+        "Resolución de 1280 x 720 en modo portátil",
+        "Hasta 1080p cuando se conecta al televisor",
+        "Almacenamiento interno de 64 GB",
+        "Soporte para tarjetas microSD hasta 2TB",
+        "Batería de 4-9 horas según el juego",
+        "Audio mejorado para modo portátil",
+        "Soporte ajustable más amplio y robusto",
+        "Dock con puerto LAN integrado",
+        "Compatible con todos los juegos de Switch",
+        "Joy-Con con HD Rumble y cámara infrarroja"
+      ],
+      "specifications": {
+        "Pantalla": "7\" OLED táctil capacitiva",
+        "Procesador": "NVIDIA Tegra X1",
+        "RAM": "4 GB LPDDR4X",
+        "Almacenamiento": "64 GB eMMC",
+        "Resolución": "1280x720 (portátil), 1920x1080 (TV)",
+        "Batería": "4310 mAh",
+        "Conectividad": "Wi-Fi, Bluetooth 4.1"
+      },
+      "description": "La Nintendo Switch OLED ofrece la mejor experiencia de juego híbrida con una pantalla OLED vibrante...",
+      "shipping": [
+        {
+          "type": "free",
+          "description": "Llega gratis",
+          "estimatedDate": "mañana"
+        },
+        {
+          "type": "pickup",
+          "description": "Retira gratis en",
+          "estimatedDate": "tiendas GameZone"
+        }
+      ],
+      "stock": {
+        "available": true,
+        "quantity": 35,
+        "fulfilledBy": "FULL"
+      },
+      "seller": {
+        "name": "GameZone",
+        "isOfficial": false,
+        "verified": true,
+        "salesCount": "+30K",
+        "location": "Buenos Aires",
+        "rating": 4.4
+      },
+      "freeShippingPromo": {
+        "threshold": 50000,
+        "message": "Envío gratis en compras superiores a $50.000"
+      },
+      "tags": ["gaming", "Nintendo", "switch", "oled", "console", "portable"],
+      "warranty": {
+        "duration": "12 meses",
+        "type": "Garantía oficial Nintendo"
+      }
+    },
+    "MLA321654987": {
+      "id": "MLA321654987",
+      "title": "Sony WH-1000XM5 Auriculares Inalámbricos Noise Cancelling",
+      "condition": "Nuevo",
+      "category": "Electrónicos > Audio > Auriculares",
+      "salesCount": 890,
+      "basePrice": 389999,
+      "createdAt": "2024-04-12T16:30:00Z",
+      "updatedAt": "2024-06-14T12:15:00Z",
+      "images": [
+        {
+          "id": "img1",
+          "url": "/images/products/D_NQ_NP_2X_794797-MLA50436072460_062022-F.webp?height=400&width=400",
+          "alt": "Sony WH-1000XM5 - Vista frontal",
+          "thumbnail": "/images/products/D_NQ_NP_2X_794797-MLA50436072460_062022-F.webp?height=60&width=60"
+        },
+        {
+          "id": "img2",
+          "url": "/images/products/D_NQ_NP_2X_942427-MLA50436038781_062022-F.webp?height=400&width=400",
+          "alt": "Sony WH-1000XM5 - Vista lateral",
+          "thumbnail": "/images/products/D_NQ_NP_2X_942427-MLA50436038781_062022-F.webp?height=60&width=60"
+        },
+        {
+          "id": "img3",
+          "url": "/images/products/D_NQ_NP_2X_699482-MLA74287271015_012024-F.webp?height=400&width=400",
+          "alt": "Sony WH-1000XM5 - Plegados con estuche",
+          "thumbnail": "/images/products/D_NQ_NP_2X_699482-MLA74287271015_012024-F.webp?height=60&width=60"
+        }
+      ],
+      "reviews": {
+        "rating": 4.6,
+        "count": 543
+      },
+      "priceOptions": [
+        {
+          "id": "best_price",
+          "type": "best_price",
+          "title": "Mejor precio",
+          "price": 389999,
+          "originalPrice": null,
+          "description": "Vendido por AudioTech",
+          "seller": {
+            "name": "AudioTech",
+            "displayName": "AudioTech",
+            "isOfficial": false,
+            "verified": true,
+            "rating": 4.3,
+            "salesCount": "+20K",
+            "location": "Buenos Aires"
+          },
+          "selected": true
+        },
+        {
+          "id": "official_store",
+          "type": "fast_shipping",
+          "title": "Tienda oficial",
+          "price": 409499,
+          "originalPrice": null,
+          "description": "Vendido por Sony Argentina",
+          "seller": {
+            "name": "Sony",
+            "displayName": "Sony Argentina",
+            "isOfficial": true,
+            "verified": true,
+            "rating": 4.8,
+            "salesCount": "+100K",
+            "location": "Capital Federal"
+          },
+          "selected": false
+        },
+        {
+          "id": "installments",
+          "type": "installments",
+          "title": "En cuotas",
+          "price": 467999,
+          "originalPrice": null,
+          "description": "12 cuotas sin interés",
+          "seller": {
+            "name": "Sony",
+            "displayName": "Sony Argentina",
+            "isOfficial": true,
+            "verified": true,
+            "rating": 4.8,
+            "salesCount": "+100K",
+            "location": "Capital Federal"
+          },
+          "installments": {
+            "count": 12,
+            "amount": 39000,
+            "interestFree": true
+          },
+          "selected": false
+        }
+      ],
+      "colorVariants": [
+        {
+          "id": "black",
+          "name": "Negro",
+          "value": "black",
+          "color": "#1a1a1a",
+          "available": true
+        },
+        {
+          "id": "silver",
+          "name": "Plata",
+          "value": "silver",
+          "color": "#c0c0c0",
+          "available": true
+        },
+        {
+          "id": "midnight_blue",
+          "name": "Azul Medianoche",
+          "value": "blue",
+          "color": "#191970",
+          "available": false
+        }
+      ],
+      "features": [
+        "Cancelación de ruido líder en la industria",
+        "Procesador V1 para audio de alta calidad",
+        "Hasta 30 horas de batería con ANC activado",
+        "Carga rápida: 3 minutos = 3 horas de reproducción",
+        "Conectividad Bluetooth 5.2 multipunto",
+        "Controles táctiles intuitivos",
+        "Tecnología Speak-to-Chat",
+        "Sonido adaptativo según el entorno",
+        "Micrófono con cancelación de ruido para llamadas",
+        "Compatible con asistentes de voz",
+        "Diseño plegable con estuche de transporte"
+      ],
+      "specifications": {
+        "Tipo": "Circumaurales inalámbricos",
+        "Drivers": "30mm dinámicos",
+        "Respuesta": "4Hz - 40kHz",
+        "Batería": "30 horas (ANC), 40 horas (sin ANC)",
+        "Carga": "USB-C, carga rápida",
+        "Conectividad": "Bluetooth 5.2, NFC",
+        "Peso": "250g"
+      },
+      "description": "Los Sony WH-1000XM5 ofrecen la mejor cancelación de ruido del mercado con calidad de audio excepcional...",
+      "shipping": [
+        {
+          "type": "free",
+          "description": "Llega gratis",
+          "estimatedDate": "en 2-3 días"
+        },
+        {
+          "type": "pickup",
+          "description": "Retira gratis en",
+          "estimatedDate": "tiendas Sony"
+        }
+      ],
+      "stock": {
+        "available": true,
+        "quantity": 42,
+        "fulfilledBy": "FULL"
+      },
+      "seller": {
+        "name": "AudioTech",
+        "isOfficial": false,
+        "verified": true,
+        "salesCount": "+20K",
+        "location": "Buenos Aires",
+        "rating": 4.3
+      },
+      "freeShippingPromo": {
+        "threshold": 50000,
+        "message": "Envío gratis en compras superiores a $50.000"
+      },
+      "tags": ["audio", "Sony", "wireless", "noise-cancelling", "premium", "bluetooth"],
+      "warranty": {
+        "duration": "24 meses",
+        "type": "Garantía internacional Sony"
+      }
+    }
+  },
+  "relatedProducts": {
+    "MLA123456789": [
+      {
+        "id": "MLA987654321",
+        "name": "Apple iPhone 15 Pro 256 GB Titanio Natural",
+        "price": 1299999,
+        "originalPrice": null,
+        "image": "/images/products/D_NQ_NP_2X_891263-MLA71783089058_092023-F.webp?height=200&width=200",
+        "freeShipping": true
+      },
+      {
+        "id": "MLA789123456",
+        "name": "Nintendo Switch OLED Modelo Blanco 64GB + Joy-Con",
+        "price": 459999,
+        "originalPrice": null,
+        "image": "/images/products/D_NQ_NP_2X_803086-MLA47920649105_102021-F.webp?height=200&width=200",
+        "freeShipping": true
+      },
+      {
+        "id": "MLA321654987",
+        "name": "Sony WH-1000XM5 Auriculares Inalámbricos Noise Cancelling",
+        "price": 389999,
+        "originalPrice": null,
+        "image": "/images/products/D_NQ_NP_2X_794797-MLA50436072460_062022-F.webp?height=200&width=200",
+        "freeShipping": true
+      }
+    ],
+    "MLA987654321": [
+      {
+        "id": "MLA123456789",
+        "name": "Samsung Galaxy A15 128 GB Negro azabache 4 GB RAM",
+        "price": 389999,
+        "originalPrice": null,
+        "image": "/images/products/D_NQ_NP_2X_906308-MLA85051996026_052025-F.webp?height=200&width=200",
+        "freeShipping": true
+      },
+      {
+        "id": "MLA456789123",
+        "name": "Lenovo ThinkPad E15 Intel Core i5 16GB RAM 512GB SSD",
+        "price": 899999,
+        "originalPrice": null,
+        "image": "/images/products/D_NQ_NP_2X_697912-MLA82167895629_012025-F.webp?height=200&width=200",
+        "freeShipping": true
+      },
+      {
+        "id": "MLA321654987",
+        "name": "Sony WH-1000XM5 Auriculares Inalámbricos Noise Cancelling",
+        "price": 389999,
+        "originalPrice": null,
+        "image": "/images/products/D_NQ_NP_2X_794797-MLA50436072460_062022-F.webp?height=200&width=200",
+        "freeShipping": true
+      }
+    ],
+    "MLA456789123": [
+      {
+        "id": "MLA987654321",
+        "name": "Apple iPhone 15 Pro 256 GB Titanio Natural",
+        "price": 1299999,
+        "originalPrice": null,
+        "image": "/images/products/D_NQ_NP_2X_891263-MLA71783089058_092023-F.webp?height=200&width=200",
+        "freeShipping": true
+      },
+      {
+        "id": "MLA789123456",
+        "name": "Nintendo Switch OLED Modelo Blanco 64GB + Joy-Con",
+        "price": 459999,
+        "originalPrice": null,
+        "image": "/images/products/D_NQ_NP_2X_803086-MLA47920649105_102021-F.webp?height=200&width=200",
+        "freeShipping": true
+      },
+      {
+        "id": "MLA123456789",
+        "name": "Samsung Galaxy A15 128 GB Negro azabache 4 GB RAM",
+        "price": 389999,
+        "originalPrice": null,
+        "image": "/images/products/D_NQ_NP_2X_906308-MLA85051996026_052025-F.webp?height=200&width=200",
+        "freeShipping": true
+      }
+    ],
+    "MLA789123456": [
+      {
+        "id": "MLA456789123",
+        "name": "Lenovo ThinkPad E15 Intel Core i5 16GB RAM 512GB SSD",
+        "price": 899999,
+        "originalPrice": null,
+        "image": "/images/products/D_NQ_NP_2X_697912-MLA82167895629_012025-F.webp?height=200&width=200",
+        "freeShipping": true
+      },
+      {
+        "id": "MLA987654321",
+        "name": "Apple iPhone 15 Pro 256 GB Titanio Natural",
+        "price": 1299999,
+        "originalPrice": null,
+        "image": "/images/products/D_NQ_NP_2X_891263-MLA71783089058_092023-F.webp?height=200&width=200",
+        "freeShipping": true
+      },
+      {
+        "id": "MLA321654987",
+        "name": "Sony WH-1000XM5 Auriculares Inalámbricos Noise Cancelling",
+        "price": 389999,
+        "originalPrice": null,
+        "image": "/images/products/D_NQ_NP_2X_794797-MLA50436072460_062022-F.webp?height=200&width=200",
+        "freeShipping": true
+      }
+    ],
+    "MLA321654987": [
+      {
+        "id": "MLA123456789",
+        "name": "Samsung Galaxy A15 128 GB Negro azabache 4 GB RAM",
+        "price": 389999,
+        "originalPrice": null,
+        "image": "/images/products/D_NQ_NP_2X_906308-MLA85051996026_052025-F.webp?height=200&width=200",
+        "freeShipping": true
+      },
+      {
+        "id": "MLA987654321",
+        "name": "Apple iPhone 15 Pro 256 GB Titanio Natural",
+        "price": 1299999,
+        "originalPrice": null,
+        "image": "/images/products/D_NQ_NP_2X_891263-MLA71783089058_092023-F.webp?height=200&width=200",
+        "freeShipping": true
+      },
+      {
+        "id": "MLA789123456",
+        "name": "Nintendo Switch OLED Modelo Blanco 64GB + Joy-Con",
+        "price": 459999,
+        "originalPrice": null,
+        "image": "/images/products/D_NQ_NP_2X_803086-MLA47920649105_102021-F.webp?height=200&width=200",
+        "freeShipping": true
+      }
+    ]
+  }
+}

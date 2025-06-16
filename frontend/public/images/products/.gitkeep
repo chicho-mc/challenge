@@ -1,0 +1,7 @@
+# Add your product images here
+# Example structure:
+# - samsung-a15-1.jpg
+# - samsung-a15-2.jpg  
+# - samsung-a15-thumb-1.jpg
+# - default.jpg (fallback image)
+# - default-thumb.jpg (fallback thumbnail)
