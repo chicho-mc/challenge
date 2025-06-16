@@ -40,7 +40,7 @@ def get_product(product_id: str):
     product = products_data.get('products', {}).get(product_id)
     if not product:
         logger.warning(f'Product not found: {product_id}')
-        return jsonify({'success': False, 'error': 'Product not found'}), 404
+        return jsonify({'success': False, 'message': 'Product not found'}), 404
     logger.info(f'Fetched product data for product_id={product_id}')
     enriched_product = enrich_product_with_merchants(product, MERCHANTS_FILE)
     enriched_product['reviews'] = get_reviews(product_id, REVIEWS_FILE)
